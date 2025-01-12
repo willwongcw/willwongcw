@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @willwongcw
 - 👀 I’m a radiologist from Hong Kong.
-- 🌱 I’m currently learning Python, Autohotkey and Flask to build things that facilitate radiologists' workflow.
-- 💞️ I’m looking to collaborate on deploying existing large language models in radiology.
+- 🌱 Interested in using technology to improve radiologists' workflow and interventions.
+- 💞️ I’m looking to collaborate on any tech-related radiology projects. Augmented reality, artificial intelligence, even 3D printing or electronics.
 - 📫 How to reach me williamradiology@outlook.com
 
 <!---
