@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @willwongcw
-- 👀 I’m a radiologist from Hong Kong.
-- 🌱 Interested in using technology to improve radiologists' workflow and interventions.
-- 💞️ I’m looking to collaborate on Augmented Reality and Artificial Intelligence.
-- 📫 How to reach me williamradiology@outlook.com
+- 👀 Radiologist from Hong Kong
+- 💞️ Augmented Reality and Artificial Intelligence
+- 📫 williamradiology@outlook.com
 
 <!---
 willwongcw/willwongcw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
